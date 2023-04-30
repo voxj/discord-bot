@@ -8,7 +8,7 @@ hello! this is how you can set up this discord bot.
 4. make a new file called keep_alive.py
 5. put the code from keep_alive.py into the repl's keep_alive.py code.
 6. get a new env with using repl secrets (basically env's, but easier).
-7. name the env Toeknddddddd.
+7. name the env TOKENDSAAAAAAAAAAAAAA.
 8. put your discord bot token into the secret (env).
 9. run.
 10. go to https://uptimerobot.com/.
